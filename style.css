@@ -120,3 +120,7 @@ p{
 	font-size: 288px;
 	color:#F7F7F7;
 }
+.floating{
+  display: inline-block;
+  width: 312px;
+}
